@@ -4,7 +4,7 @@
 ![App UI](https://user-images.githubusercontent.com/16510597/103358917-5e9b3f00-4ae9-11eb-90ee-1f48568fb20e.jpg)
 
 A new Flutter project.
-
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
